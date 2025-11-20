@@ -41,4 +41,4 @@ python art_generator.py
 - Add fractal designs  
 - Create GUI menu  
 
-Enjoy creating beautiful geometric art! 🎉
+Enjoy creating beautiful geometric art! 
